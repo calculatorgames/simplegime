@@ -6,3 +6,8 @@ body {
 }
 
 
+/*This is the font used for the site*/
+body {
+  font-family: 'Courier New', monospace, Verdana;
+}
+
